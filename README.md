@@ -20,7 +20,7 @@ I am Zheng HanChao, majoring in Software Engineering at NanJing University.
 - 🌱 I’m currently learning Operating System and Compilation Principle.
 - 🔭 I’m currently working on a frontend project.
 - 😄 I'm currently interested in Machine Learning.
-- 💬 I'm currently recording my learning in [MyBlog](https://icde.top/) and [CSDN](https://blog.csdn.net/m0_57225567?type=blog)
+- 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://icde.top/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhc-njdx)
 
@@ -29,7 +29,4 @@ I am Zheng HanChao, majoring in Software Engineering at NanJing University.
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zhc-njdx&hide_border=true&show_icons=trueline_height=21&theme=synthwave" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhc-njdx&hide_border=true&layout=compact&langs_count=6&theme=synthwave" /> 
 </div>
-
-### ⚡ Activity Graph
-![activity](https://activity-graph.herokuapp.com/graph?username=zhc-njdx&theme=github)
 
