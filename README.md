@@ -26,7 +26,7 @@ I am Zheng HanChao, majoring in Software Engineering at NanJing University.
 
 ### 📫 Github Overview
 <div align="center"> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zhc-njdx&hide_border=true&show_icons=trueline_height=21&theme=synthwave" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhc-njdx&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=synthwave" /> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zhc-njdx&hide_border=true&show_icons=trueline_height=21&theme=dracula" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhc-njdx&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=dracula" /> 
 </div>
 
