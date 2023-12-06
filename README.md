@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Zheng HanChao, majoring in Software Engineering at NanJing University.
 
 - 🌱 I’m currently learning DataBase System and Distributed System.
-- 🔭 I’m currently working on bustub(23fall).
+- 🔭 I’m currently working on bustub(23fall) and software-analysis assignment([taie](https://github.com/pascal-lab/Tai-e-assignments)).
 - 😄 I'm currently interested in DataBase System.
 - 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://zhc-njdx.github.io/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog)
 
