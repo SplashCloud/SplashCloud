@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**zhc-njdx/zhc-njdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SplashCloud/SplashCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -19,16 +19,16 @@ I am Zheng HanChao, majoring in Software Engineering at NanJing University.
 - 🌱 I’m currently learning DataBase System and Distributed System.
 - 🔭 I’m currently working on [bustub(23fall)](https://github.com/cmu-db/bustub) and software-analysis assignment([taie](https://github.com/pascal-lab/Tai-e-assignments)).
 - 😄 I'm currently interested in DataBase System.
-- 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://zhc-njdx.github.io/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog)
+- 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://SplashCloud.github.io/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhc-njdx)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SplashCloud)
 
 ### 📫 Github Overview
 <div align="center"> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zhc-njdx&hide_border=true&show_icons=trueline_height=21&theme=dracula" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhc-njdx&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=dracula" /> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SplashCloud&hide_border=true&show_icons=trueline_height=21&theme=dracula" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplashCloud&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=dracula" /> 
 </div>
 
 ### 🚀 Action
-![](https://raw.githubusercontent.com/zhc-njdx/zhc-njdx/main/assets/github-contribution-grid-snake.svg)
-![](https://activity-graph.herokuapp.com/graph?username=zhc-njdx&theme=github)
+![](https://raw.githubusercontent.com/SplashCloud/SplashCloud/main/assets/github-contribution-grid-snake.svg)
+![](https://activity-graph.herokuapp.com/graph?username=SplashCloud&theme=github)
