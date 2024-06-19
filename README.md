@@ -21,11 +21,13 @@ I am Zheng HanChao, majoring in Software Engineering at NanJing University.
 - 😄 I'm currently interested in DataBase System.
 - 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://SplashCloud.github.io/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog)
 
+<!--
 ### 📫 Github Overview
 <div align="center"> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SplashCloud&hide_border=true&show_icons=trueline_height=21&theme=dracula" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplashCloud&hide=html,css&hide_border=true&layout=compact&langs_count=6&theme=dracula" /> 
 </div>
+-->
 
 ### 🚀 Action
 ![](https://raw.githubusercontent.com/SplashCloud/SplashCloud/main/assets/github-contribution-grid-snake.svg)
