@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Zheng HanChao, majoring in Software Engineering at NanJing University.
+<!-- I am Zheng HanChao, majoring in Software Engineering at NanJing University. -->
 
-- 🌱 I’m currently learning DataBase System and Distributed System.
-- 🔭 I’m currently working on [bustub(23fall)](https://github.com/cmu-db/bustub) and software-analysis assignment([taie](https://github.com/pascal-lab/Tai-e-assignments)).
-- 😄 I'm currently interested in DataBase System.
-- 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://SplashCloud.github.io/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog)
+- 🌱 I’m currently learning Deep Learning System and Large Language Model.
+- 🔭 I’m currently working on Vector Databases.
+- 😄 I'm currently interested in DataBase System and Machine Learning System.
+<!-- - 💬 I'm currently recording my learning in [![ICDE](https://img.shields.io/badge/Homepage-ICDE-blue)](https://SplashCloud.github.io/) and [![CSDN](https://img.shields.io/badge/Blog-CSDN-orange)](https://blog.csdn.net/m0_57225567?type=blog) -->
 
 <!--
 ### 📫 Github Overview
